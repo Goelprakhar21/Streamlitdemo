@@ -1,8 +1,8 @@
+
+setuptools==72.2.0
+streamlit==1.37.1
 scikit-learn==1.4.2
 numpy==1.26.0
 pandas==2.1.4
-setuptools
-streamlit==1.32.1
-matplotlib
-imblearn
-distutils
+matplotlib==3.9.2
+imbalanced-learn==0.11.0
