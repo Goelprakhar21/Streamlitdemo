@@ -3,4 +3,4 @@ scikit-learn==1.4.2
 numpy==1.26.0
 pandas==2.1.4
 setuptools
-python3-distutils
+distutils
