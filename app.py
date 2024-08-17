@@ -8,7 +8,7 @@ from PIL import Image
 
 st.title("Credit Card Fraud Detection Model")
 
-st.image("images.jpg")
+st.image("image.jpg")
 
 
 
